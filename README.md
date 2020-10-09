@@ -1,2 +1,2 @@
 # Data-Science
-Berikut adalah dasar-dasar Data science
+Berikut adalah dasar-dasar Data science dan machine learning
